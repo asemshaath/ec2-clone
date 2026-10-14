@@ -1,1 +1,1 @@
-# ec2-clone
+# EC2 Clone
